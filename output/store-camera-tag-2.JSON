@@ -1,0 +1,94 @@
+{
+  "apim-request-id": "81f65490-e40e-4de9-bd19-5f4e5b98e1d6",
+  "content-length": "1124",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 1024,
+    "height": 682
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "clothing",
+        "confidence": 0.9903867244720459
+      },
+      {
+        "name": "person",
+        "confidence": 0.9825903177261353
+      },
+      {
+        "name": "convenience store",
+        "confidence": 0.9799700975418091
+      },
+      {
+        "name": "retail",
+        "confidence": 0.9788037538528442
+      },
+      {
+        "name": "supermarket",
+        "confidence": 0.9576846361160278
+      },
+      {
+        "name": "grocery store",
+        "confidence": 0.9418376684188843
+      },
+      {
+        "name": "shopping",
+        "confidence": 0.9195953011512756
+      },
+      {
+        "name": "customer",
+        "confidence": 0.9176949262619019
+      },
+      {
+        "name": "text",
+        "confidence": 0.906154215335846
+      },
+      {
+        "name": "trade",
+        "confidence": 0.9014638066291809
+      },
+      {
+        "name": "human face",
+        "confidence": 0.9004635810852051
+      },
+      {
+        "name": "indoor",
+        "confidence": 0.8902596235275269
+      },
+      {
+        "name": "woman",
+        "confidence": 0.88371741771698
+      },
+      {
+        "name": "selling",
+        "confidence": 0.8815276622772217
+      },
+      {
+        "name": "shop",
+        "confidence": 0.8811236619949341
+      },
+      {
+        "name": "market",
+        "confidence": 0.8682040572166443
+      },
+      {
+        "name": "store",
+        "confidence": 0.8125656247138977
+      },
+      {
+        "name": "shelf",
+        "confidence": 0.6904568672180176
+      },
+      {
+        "name": "standing",
+        "confidence": 0.6564067602157593
+      },
+      {
+        "name": "marketplace",
+        "confidence": 0.5118435025215149
+      }
+    ]
+  }
+}

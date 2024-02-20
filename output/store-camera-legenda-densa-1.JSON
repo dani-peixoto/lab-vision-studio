@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "5578dc3d-5633-4b16-8e5c-297aeb8a2b1e",
+  "content-length": "1350",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a woman and a girl in a grocery store",
+        "confidence": 0.7764207124710083,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1024,
+          "h": 682
+        }
+      },
+      {
+        "text": "a woman smiling while holding a phone",
+        "confidence": 0.7423653602600098,
+        "boundingBox": {
+          "x": 212,
+          "y": 47,
+          "w": 342,
+          "h": 591
+        }
+      },
+      {
+        "text": "a person holding a phone case",
+        "confidence": 0.7828799486160278,
+        "boundingBox": {
+          "x": 441,
+          "y": 197,
+          "w": 75,
+          "h": 102
+        }
+      },
+      {
+        "text": "a woman wearing a purple hat",
+        "confidence": 0.7496258616447449,
+        "boundingBox": {
+          "x": 467,
+          "y": 311,
+          "w": 433,
+          "h": 357
+        }
+      },
+      {
+        "text": "a woman holding a cell phone to a girl in a store",
+        "confidence": 0.7348207831382751,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 997,
+          "h": 664
+        }
+      },
+      {
+        "text": "a person holding a piece of ginger",
+        "confidence": 0.7659549117088318,
+        "boundingBox": {
+          "x": 701,
+          "y": 246,
+          "w": 156,
+          "h": 119
+        }
+      },
+      {
+        "text": "a person wearing a purple hat",
+        "confidence": 0.7276327610015869,
+        "boundingBox": {
+          "x": 651,
+          "y": 324,
+          "w": 237,
+          "h": 207
+        }
+      },
+      {
+        "text": "a woman smiling at a cell phone",
+        "confidence": 0.719784140586853,
+        "boundingBox": {
+          "x": 242,
+          "y": 53,
+          "w": 250,
+          "h": 390
+        }
+      },
+      {
+        "text": "a row of jars on a shelf",
+        "confidence": 0.711879312992096,
+        "boundingBox": {
+          "x": 0,
+          "y": 301,
+          "w": 217,
+          "h": 120
+        }
+      },
+      {
+        "text": "a blurry image of a person standing in a room",
+        "confidence": 0.7167477011680603,
+        "boundingBox": {
+          "x": 0,
+          "y": 484,
+          "w": 540,
+          "h": 190
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 1024,
+    "height": 682
+  }
+}
